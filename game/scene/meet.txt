@@ -1,5 +1,5 @@
 ; 场景2：黄昏初见
-bgm:å«ä¹å¯ºçå®µã®å ´å[ç©è¯­ç³»å]éä¹åé.mp3 -volume=10;
+bgm:6.mp3 -volume=15;
 changeBg:nightfall_hotel.png;
 changeFigure:lookback.png -left -next;
 :女孩猛地转过身来。那是一张很漂亮的脸，约莫十七八岁的年纪，眼睛很大，皮肤白得近乎透明。;

@@ -1,4 +1,3 @@
-changeBg:bg_dorm.webp;
 changeBg:night_dorm.png;
 changeFigure:none -next;
 :然后，我醒了。;
@@ -15,7 +14,7 @@ changeFigure:none -next;
 :多么美好的一场梦啊。;
 :我坐在床上，直到天亮。窗帘缝里透进来的阳光一点点变亮，宿舍里的人一个个醒来，洗漱、收拾东西、讨论今天的答辩。;
 :没有人注意到我一夜没睡。没有人知道，我刚刚失去了一个夏天。;
-changeBg:å¾®ä¿¡å¾ç_20260901135350_39_2.jpg
+changeBg:school.jpg
   -transform={"colorRed":252,"colorGreen":245,"colorBlue":245,"oldFilm":1,"dotFilm":1}
   -enter=enter-from-left;
 之后几天，我试过再睡回去，想把那个梦接着做下去。可梦这东西，醒了就是醒了，散了就是散了，怎么也接不上。;

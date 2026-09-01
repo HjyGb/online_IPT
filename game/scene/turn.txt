@@ -1,6 +1,5 @@
 changeBg:nightfall_hotel.png;
-bgm:ãæ¦å ´ã¶åãè©ãã_(æåºå_è¡æ¼¾)[ç©è¯­ç³»å]éä¹åé.mp3
-  -volume=15;
+bgm:4.mp3 -volume=20;
 :七月中旬，我拿到了一家公司的实习 offer。那天晚上我特别开心，买了两瓶冰镇可乐回来——当然，我只喝了一瓶，另一瓶放在桌上，假装是给苏萌的。;
 changeFigure:smile.png;
 苏萌:太好了许星！你终于找到工作了！;
@@ -11,7 +10,6 @@ changeFigure:stand3.png;
 苏萌:也是哦。你找到工作，就该搬出去了。;
 :我的心像被什么东西揪了一下。;
 许星:苏萌……;
-changeFigure:fig_sumeng_sad.webp -right -next;
 苏萌:没关系的。反正我早就习惯了。人来人往，本来就是这样。;
 :她转过身，脸上带着笑，但眼睛里没有笑意。;
 changeFigure:none;

@@ -1,5 +1,5 @@
 changeBg:night_hotel.png;
-bgm:å«ä¹å¯ºçå®µã®å ´å[ç©è¯­ç³»å]éä¹åé.mp3 -volume=10;
+bgm:6.mp3 -volume=15;
 changeBg:dayhotel.png;
 第二天早上醒来，我第一眼就看向窗边。苏萌不在那里。我心里莫名地沉了一下，难道昨晚只是我因为太热太疲惫产生的幻觉？;
 苏萌:你醒啦？;
@@ -17,9 +17,9 @@ changeFigure:smile.png -left;
 changeBg:nightfall_hotel.png;
 等我晚上回来，我们就坐在窗边聊天，看夕阳一点点沉下去，看远处的街灯一盏盏亮起来。;
 bgm:none -enter=250;
-bgm:æ¥ææ¥[ç©è¯­ç³»å]éä¹åé.mp3 -volume=10;
+bgm:7.mp3 -volume=20;
 :有一次，我面试完回来，累得一句话都不想说。;
-changeFigure:ç«ç«1.png -left;
+changeFigure:halfstand.png -left;
 苏萌:今天的面试如何呢？总不能有是HR刷KPI白跑一趟吧;
 许星:还算行吧~;
 :察觉到我语气中难以言说的疲惫，苏萌看着瘫倒在床上的我，若有所思;

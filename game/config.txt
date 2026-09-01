@@ -1,5 +1,5 @@
 Game_name:Ice Pop Too;
 Game_key:104dedf7fe8dd18;
 Title_img:first.png;
-Title_bgm:_37_whiz_-_TrySailã4K_60FPSããç©.mp3;
+Title_bgm:1.mp3;
 Textbox_theme:imss;
